@@ -37,8 +37,9 @@ Our AI Data Assistant is built using a fully open-source tech stack:
 To run the AI Data Assistant locally:
 
 1. Clone this repository.
-2. Install the required dependencies.
-3. Run the Streamlit app using `streamlit run app.py`.
+2. Install ollama and mistral
+3. Install the required dependencies.
+4. Run the Streamlit app using `streamlit run app.py`.
 
 ## Contribution
 
